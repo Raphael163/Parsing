@@ -1,0 +1,112 @@
+{
+    "30048152": {
+        "item_basePrice": 23199,
+        "item_salePrice": 16240,
+        "item_bonus": 487
+    },
+    "4145080": {
+        "item_basePrice": 1330,
+        "item_salePrice": 890,
+        "item_bonus": 27
+    },
+    "30061566": {
+        "item_basePrice": 29399,
+        "item_salePrice": 21999,
+        "item_bonus": 660
+    },
+    "30061355": {
+        "item_basePrice": 23999,
+        "item_salePrice": 20999,
+        "item_bonus": 630
+    },
+    "4163078": {
+        "item_basePrice": 1110,
+        "item_salePrice": 850,
+        "item_bonus": 26
+    },
+    "4145079": {
+        "item_basePrice": 1330,
+        "item_salePrice": 890,
+        "item_bonus": 27
+    },
+    "30061358": {
+        "item_basePrice": 32999,
+        "item_salePrice": 26999,
+        "item_bonus": 810
+    },
+    "30061061": {
+        "item_basePrice": 16499,
+        "item_salePrice": 14999,
+        "item_bonus": 450
+    },
+    "30057402": {
+        "item_basePrice": 16999,
+        "item_salePrice": 14999,
+        "item_bonus": 450
+    },
+    "30059688": {
+        "item_basePrice": 13999,
+        "item_salePrice": 12999,
+        "item_bonus": 390
+    },
+    "4163076": {
+        "item_basePrice": 1730,
+        "item_salePrice": 1330,
+        "item_bonus": 40
+    },
+    "30060625": {
+        "item_basePrice": 19499,
+        "item_salePrice": 14999,
+        "item_bonus": 450
+    },
+    "4163077": {
+        "item_basePrice": 750,
+        "item_salePrice": 570,
+        "item_bonus": 17
+    },
+    "30061356": {
+        "item_basePrice": 23999,
+        "item_salePrice": 20999,
+        "item_bonus": 630
+    },
+    "4145078": {
+        "item_basePrice": 1330,
+        "item_salePrice": 890,
+        "item_bonus": 27
+    },
+    "4163075": {
+        "item_basePrice": 1400,
+        "item_salePrice": 1070,
+        "item_bonus": 32
+    },
+    "30057404": {
+        "item_basePrice": 15999,
+        "item_salePrice": 14999,
+        "item_bonus": 450
+    },
+    "30059343": {
+        "item_basePrice": 17999,
+        "item_salePrice": 16999,
+        "item_bonus": 510
+    },
+    "30057406": {
+        "item_basePrice": 14499,
+        "item_salePrice": 12999,
+        "item_bonus": 390
+    },
+    "30061353": {
+        "item_basePrice": 27999,
+        "item_salePrice": 22999,
+        "item_bonus": 690
+    },
+    "4145085": {
+        "item_basePrice": 1090,
+        "item_salePrice": 790,
+        "item_bonus": 24
+    },
+    "30061567": {
+        "item_basePrice": 31299,
+        "item_salePrice": 23999,
+        "item_bonus": 720
+    }
+}
